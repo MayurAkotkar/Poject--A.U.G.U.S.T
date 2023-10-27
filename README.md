@@ -3,7 +3,7 @@ A.U.G.U.S.T is a voice commanding assistant service in Python 3.9.10. It can rec
 
 #######################################################################################################################################################
 Requirements
-Operation system: Windows 10
+Operation system: Windows 10 
 Python Version: 3.9.10
 for terminal environment:- Anaconda 2022.10
 #######################################################################################################################################################
